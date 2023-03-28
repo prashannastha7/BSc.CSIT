@@ -1,3 +1,3 @@
 # BSc.CSIT_Notes
 
-Just a notes of BSc.CSIT for future use.
+Just a pdf notes of BSc.CSIT(TU) for future use.
